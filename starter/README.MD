@@ -1,3 +1,7 @@
+#### Swagger doc
+
+https://jobs-api-nodejs-mongodb.herokuapp.com/api-docs/
+
 #### Setup
 
 ```bash
